@@ -1,10 +1,10 @@
 ---
-title: Week 04 - Rapid Drone Software Prototyping PX4
+title: Week 04 - 1 Rapid Drone Software Prototyping PX4
 created: '2020-10-19T19:27:14.568Z'
-modified: '2020-10-19T19:35:29.596Z'
+modified: '2020-10-27T12:10:00.042Z'
 ---
 
-# Week 04 - Rapid Drone Software Prototyping PX4
+# Week 04 - 1 Rapid Drone Software Prototyping PX4
 
 ## What is PX4?
 Open source flight control software for drones. Standard for drone hardware support and software stack
@@ -28,7 +28,10 @@ Open source flight control software for drones. Standard for drone hardware supp
   + Gazebo
 
 ## HITL architecture
-HITL architecture
+- PX4
+  + Companion computer
+  + QGroundControl
+  + Gazebo
 
 ## Companion computer
 - Seperate device for safety
